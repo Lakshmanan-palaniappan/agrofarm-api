@@ -3,7 +3,7 @@ const sql=require('mssql');
 const config = {
     user: 'letchu',
     password: 'Developer@2004',
-    server: 'lakshmanan',
+    server: 'laks',
     database: 'AgroFarm',
     options: {
         trustedConnection: true,
